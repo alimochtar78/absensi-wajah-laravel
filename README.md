@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alimochtar78/absensi-wajah-laravel-full/main/public/logo-face-attendance.png" width="300" alt="Face Attendance Logo">
+  <img src="https://raw.githubusercontent.com/alimochtar78/absensi-wajah-laravel-full/main/public/favicon.png" width="300" alt="Face Attendance Logo">
 </p>
 
 <p align="center">
