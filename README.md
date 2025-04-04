@@ -1,5 +1,5 @@
 <p align="center">
-  <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+  <a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a>
 </p>
 
 <p align="center">
@@ -21,6 +21,16 @@ Proyek ini merupakan sistem absensi online yang menggunakan deteksi wajah sebaga
 
 ---
 
+## 📺 Playlist Tutorial
+
+- **📹 Playlist Lengkap Source Code (YouTube)**:  
+  [https://www.youtube.com/playlist?list=PL-EYPUojWTgMVzLoy0WfK5MfmGJh4MwA8](https://www.youtube.com/playlist?list=PL-EYPUojWTgMVzLoy0WfK5MfmGJh4MwA8)
+
+- **📊 Data Playlist (Google Spreadsheet)**:  
+  [https://docs.google.com/spreadsheets/d/1y_VYx4VrMAEnc0B6MQFrrnYWLx8jjOMl](https://docs.google.com/spreadsheets/d/1y_VYx4VrMAEnc0B6MQFrrnYWLx8jjOMl)
+
+---
+
 ## 🧰 Teknologi
 
 - **Backend**: Laravel 12
@@ -36,9 +46,9 @@ Proyek ini merupakan sistem absensi online yang menggunakan deteksi wajah sebaga
 - Login Admin & Karyawan
 - Upload foto wajah saat registrasi
 - Absensi masuk & pulang dengan kamera
-- Deteksi wajah otomatis
+- Deteksi wajah otomatis (Real-time)
 - Riwayat absensi harian & bulanan
-- API komunikasi antara Laravel ↔ Python
+- Komunikasi API antara Laravel ↔ Python
 
 ---
 
